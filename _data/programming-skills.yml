@@ -1,11 +1,15 @@
-- name: HTML5/CSS3
+- name: Estimation and costing
   percentage: 90
-  color: danger
+  color: 
 
-- name: Go
-  percentage: 80
+- name: Planning And designing (AutoCAD)
+  percentage: 70
   color:
 
-- name: Python
+- name: High grade concrete
   percentage: 70
+  color: dark
+  
+- name: High grade concrete
+  percentage: 80
   color: dark
