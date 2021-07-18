@@ -1,3 +1,7 @@
+- name: Testing of building materials
+  percentage: 95
+  color: 
+
 - name: Estimation and costing
   percentage: 90
   color: 
@@ -7,9 +11,9 @@
   color:
 
 - name: High grade concrete
-  percentage: 70
+  percentage: 80
   color: dark
   
-- name: High grade concrete
-  percentage: 80
+- name: Tendering and contracting
+  percentage: 60
   color: dark
