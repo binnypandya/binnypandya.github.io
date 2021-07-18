@@ -12,8 +12,8 @@
 
 - name: High grade concrete
   percentage: 80
-  color: dark
+  color:
   
 - name: Tendering and contracting
   percentage: 60
-  color: dark
+  color:
